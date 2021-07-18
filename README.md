@@ -6,10 +6,10 @@ App iOS native pour comprendre comment fonctionne Storyboard, Xcode et les bases
 
 Soyez le plus rapide à taper l'abeille.
 
-![wait](./https://github.com/Androz2091/beefast/raw/main/wait.PNG)
+<img src="https://github.com/Androz2091/beefast/raw/main/wait.PNG" height="400" />
 
-![bee](./https://github.com/Androz2091/beefast/raw/main/bee.PNG)
+<img src="https://github.com/Androz2091/beefast/raw/main/lost.PNG" height="400" />
 
-![bravo](./https://github.com/Androz2091/beefast/raw/main/bravo.PNG)
+<img src="https://github.com/Androz2091/beefast/raw/main/bravo.PNG" height="400" />
 
-![lost](https://github.com/Androz2091/beefast/raw/main/lost.PNG)
+<img src="https://github.com/Androz2091/beefast/raw/main/lost.PNG" height="400" />
